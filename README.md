@@ -771,3 +771,7 @@ https://github.com/tinkerbell
 ### Mumble
 Mumble is a free, open source, low latency, high quality voice chat application.
 https://www.mumble.info
+
+### Falling Walls Lab Delft
+Falling Walls Lab is an interdisciplinary format to showcase the next generation of top researchers. We're the association in charge of the competition for Delft, the Netherlands (and remote!).
+https://fwldelft.com
